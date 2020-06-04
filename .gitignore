@@ -554,3 +554,5 @@ crashlytics-build.properties
 # Backup folder for Package Reference Convert tool in Visual Studio 2017
 
 # End of https://www.toptal.com/developers/gitignore/api/unity,visualstudio,csharp
+Tools Test proj/Library
+Tools Test proj/Temp
